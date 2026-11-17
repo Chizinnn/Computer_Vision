@@ -1,0 +1,16 @@
+FCVG101 Task 1A - Camera calibration results
+Input: data\real_calibration
+Accepted/total: 20/20
+Pattern (INNER corners): 9 x 6
+Square side length: 18 mm
+Image size (width x height): 1600 x 1200 px
+OpenCV calibration RMS reprojection error: 0.128580 px
+Mean Euclidean reprojection error: 0.115546 px
+RMS Euclidean reprojection error: 0.128580 px
+K =
+[[1.39983584e+03 0.00000000e+00 8.00510548e+02]
+ [0.00000000e+00 1.39980045e+03 5.99585017e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+dist = [-3.22053204e-03  6.57342023e-02  1.46638880e-04  4.02454406e-04
+ -2.50173210e-01]
+NOTE: Synthetic demo values must not be presented as real-camera measurements.

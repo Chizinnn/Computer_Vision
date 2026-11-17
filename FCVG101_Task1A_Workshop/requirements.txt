@@ -1,0 +1,5 @@
+numpy>=1.24
+opencv-python>=4.8
+matplotlib>=3.7
+
+cd "D:\FCVG101_Introduction_to Computer_Vision\FCVG101_Task1A_Workshop"

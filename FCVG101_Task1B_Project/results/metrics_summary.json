@@ -1,0 +1,64 @@
+{
+  "type": "SYNTHETIC DEMO; replace with own data for coursework",
+  "image_size": [
+    1448,
+    1086
+  ],
+  "harris_candidates": 80,
+  "sift_kp_original": 3518,
+  "sift_kp_transformed": 3023,
+  "sift_kp_unrelated": 241,
+  "good_matches_same": 2075,
+  "good_matches_unrelated": 19,
+  "ransac_inliers_same": 2050,
+  "filtering_metrics": [
+    {
+      "noise": "Gaussian noise (sigma=20)",
+      "method": "Noisy",
+      "MSE": 382.923,
+      "PSNR_dB": 22.3
+    },
+    {
+      "noise": "Gaussian noise (sigma=20)",
+      "method": "Box",
+      "MSE": 55.099,
+      "PSNR_dB": 30.719
+    },
+    {
+      "noise": "Gaussian noise (sigma=20)",
+      "method": "Gaussian",
+      "MSE": 47.591,
+      "PSNR_dB": 31.356
+    },
+    {
+      "noise": "Gaussian noise (sigma=20)",
+      "method": "Median",
+      "MSE": 58.33,
+      "PSNR_dB": 30.472
+    },
+    {
+      "noise": "Salt & pepper (5%)",
+      "method": "Noisy",
+      "MSE": 1118.603,
+      "PSNR_dB": 17.644
+    },
+    {
+      "noise": "Salt & pepper (5%)",
+      "method": "Box",
+      "MSE": 100.16,
+      "PSNR_dB": 28.124
+    },
+    {
+      "noise": "Salt & pepper (5%)",
+      "method": "Gaussian",
+      "MSE": 108.949,
+      "PSNR_dB": 27.759
+    },
+    {
+      "noise": "Salt & pepper (5%)",
+      "method": "Median",
+      "MSE": 30.076,
+      "PSNR_dB": 33.349
+    }
+  ]
+}

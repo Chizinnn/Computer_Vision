@@ -1,0 +1,8 @@
+numpy
+pillow
+matplotlib
+torch
+torchvision
+scikit-learn
+
+cd "D:\FCVG101_Introduction_to Computer_Vision\FruitSort_Task2"
